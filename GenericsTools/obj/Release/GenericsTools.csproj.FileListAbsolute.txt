@@ -1,0 +1,7 @@
+E:\demo\GenericsTools\GenericsTools\bin\Release\GenericsTools.exe
+E:\demo\GenericsTools\GenericsTools\bin\Release\GenericsTools.pdb
+E:\demo\GenericsTools\GenericsTools\obj\Release\GenericsTools.MainForm.resources
+E:\demo\GenericsTools\GenericsTools\obj\Release\GenericsTools.Properties.Resources.resources
+E:\demo\GenericsTools\GenericsTools\obj\Release\GenericsTools.csproj.GenerateResource.Cache
+E:\demo\GenericsTools\GenericsTools\obj\Release\GenericsTools.exe
+E:\demo\GenericsTools\GenericsTools\obj\Release\GenericsTools.pdb
