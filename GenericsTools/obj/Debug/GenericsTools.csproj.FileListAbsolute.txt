@@ -1,8 +1,0 @@
-e:\demo\GenericsTools\GenericsTools\bin\Debug\GenericsTools.exe
-e:\demo\GenericsTools\GenericsTools\bin\Debug\GenericsTools.pdb
-e:\demo\GenericsTools\GenericsTools\obj\Debug\GenericsTools.MainForm.resources
-e:\demo\GenericsTools\GenericsTools\obj\Debug\GenericsTools.Properties.Resources.resources
-e:\demo\GenericsTools\GenericsTools\obj\Debug\GenericsTools.csproj.GenerateResource.Cache
-e:\demo\GenericsTools\GenericsTools\obj\Debug\GenericsTools.exe
-e:\demo\GenericsTools\GenericsTools\obj\Debug\GenericsTools.pdb
-E:\demo\GenericsTools\GenericsTools\obj\Debug\GenericsTools.csprojResolveAssemblyReference.cache
